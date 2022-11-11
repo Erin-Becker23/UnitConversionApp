@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UnitConversionApp</string>
+    <string name="usd_to_peso_converter">USD to Peso converter</string>
+    <string name="usd_to_peso">USD to Peso</string>
+    <string name="peso_to_usd">Peso to USD</string>
+    <string name="result_goes_here">Result goes here</string>
+    <string name="convert">Convert</string>
+    <string name="result_output">result goes here</string>
+    <string name="todo">TODO</string>
+    <string name="pic">TODO</string>
+    <string name="text_input">Enter currency to convert</string>
+    <string name="result_2ndpage">Result goes here</string>
+    <string name="usd2">TODO</string>
+    <string name="peso2">TODO</string>
+</resources>
